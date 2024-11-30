@@ -1,4 +1,4 @@
-# 📖 Acorn Security Services Website
+# Acorn Security Services Blog 📖
 
 Welcome to **Acorn Security Services** – your hub for cybersecurity knowledge! 🚀🔐 Our site offers concise, engaging, and practical information to help you stay secure in this digital world.
 
